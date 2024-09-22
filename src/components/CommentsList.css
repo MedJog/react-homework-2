@@ -1,0 +1,24 @@
+.Title {
+  color: blue;
+}
+.List {
+  list-style: none;
+}
+.List-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: darkblue;
+  padding: 5px;
+  
+}
+.Button {
+  background-color: aqua;
+  color: darkblue;
+  font-size: 16px;
+  border: 1px solid darkblue;
+  border-radius: 5px;
+  padding: 5px;
+}
